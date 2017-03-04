@@ -1,0 +1,36 @@
+<package>
+	<id>com.mdallak.ios6</id>
+	<name>iOS 6 Theme for iOS 10</name>
+	<version>1.0b~2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>iOS 6 Theme b~2</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ios61.png</image>
+			<image>ios62.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Fix icons on iOS 10.2</change>
+        <change>Add Badges + Dock</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>

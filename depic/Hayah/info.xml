@@ -1,0 +1,34 @@
+<package>
+	<id>com.mdallak.hayah</id>
+	<name>Hayah Font iOS 10</name>
+	<version>4.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.bytafont.bytafont3</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Font for BytaFont 3 by M_Dallak</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>HYH1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>
