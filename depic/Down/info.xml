@@ -1,5 +1,5 @@
 <package>
-	<version>6.6.9a</version>
+	<version>6.7.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.3</miniOS>
@@ -13,17 +13,10 @@
 	</descriptionlist>
     <screenshots>
         <screenshot>
-            <image></image>
+            <image>Luffy.png</image>
         </screenshot>
-        <screenshot>
-            <image></image>
-        </screenshot>
-        <screenshot>
-            <image></image>
-        </screenshot>
-    </screenshots>
 	<changelog>
-		<change></change>
+		<change>Change Logo + Icon</change>
 	</changelog>
 	<links>
 		<link>

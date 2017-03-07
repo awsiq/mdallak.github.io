@@ -1,0 +1,29 @@
+<package>
+	<id>nl.d4ni.cydiainstall</id>
+	<name>Cydia Failsafe</name>
+	<version>2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>nl.d4ni.cydiainstall</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Adds a springboard icon which can be used to reinstall Cydia if removed.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Add Cydia Installer 1.1.30</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>
