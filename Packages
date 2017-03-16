@@ -1,13 +1,13 @@
 Package: anondev.LocalIAPStore
-Version: 1.4-4
+Version: 1.4-5
 Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./debs/anondev.localiapstore_1.4-4_iphoneos-arm.deb
-Size: 82098
-MD5sum: 7ca812984a6bc97f8c0d4813eff3e774
-SHA1: b630eeaac88b7428d6c079a53e6b5c75533f62b0
-SHA256: 4b8c2ae54c255238f5aef4aad22ade6bfe35a5364a2f62dbe6d75f3458fcfd54
+Filename: ./debs/anondev.localiapstore_1.4-5_iphoneos-arm.deb
+Size: 82156
+MD5sum: 49649e63769407a7526102988bf7fac1
+SHA1: f331b8093ac427a6df28b9ca4a4429a6a444cff3
+SHA256: bb3cc9529eeab0d736a8bf730a90dac55904a054a986afa6317b1a30ac9c2562
 Section: Tweaks
 Priority: optional
 Description: Pwns In-app purchases on iOS 5.1.1 - 10.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
@@ -22,10 +22,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.misti.loveiscomplicatedagain_4.1_iphoneos-arm.deb
-Size: 92214
-MD5sum: 15ea749fdf89760ed13f99c52763fd27
-SHA1: d1ee282f15985fb7e5c001ac540954516ad7b677
-SHA256: e1f36fd236311e8c4391baeb4ee87514f6d8d0008af1aecad77d20d958821695
+Size: 91798
+MD5sum: a2001f368b1128cd2dfd544b757a29e9
+SHA1: 1af38363430c70ca90638caa060157da07c30ab7
+SHA256: 6176a7f920bea2917a009e98ec75cbe199d5d3542e42bd533c2830ca0f89987e
 Section: Fonts (BytaFont Tweak Mode)
 Description: Misti's Fonts for BytaFont 3 by M_Dallak
 Author: Misti <M_Dallak@outlook.com>
@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttmnc_1.1.7_iphoneos-arm.deb
-Size: 29314
-MD5sum: 74349d8b57f0ba35fb2f9e3e5ec113e7
-SHA1: 9c106be32151fdc34585a639ccb1c8abd6fa85cc
-SHA256: 92adb7edc3dd68bb655897c37455d5403c85da6c117059c74e2de84d97cbf3a6
+Size: 27680
+MD5sum: aa6060d4f59d21fd8cdc3ae0a40656ae
+SHA1: 33108e60c8856da38d4ae0ee75fc5918bd689a53
+SHA256: 002985442ba417e085f8420d10fe2c975d56bc1236701c281e72a0ed38ecec8f
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: BytaFont Tweak Mode NC
@@ -55,10 +55,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.kgpayphone_4.0_iphoneos-arm.deb
-Size: 9457520
-MD5sum: ff6db9e609984dd41ac66d62d78b19d4
-SHA1: f7ed0a1992b1f56f167e17a4faab97cd5d5d79e4
-SHA256: 7d2c15e59d6bbb61fa3a6730292620b539827d06435803f3a1fe512e7d34116d
+Size: 9456418
+MD5sum: 3f7f6c5f9f6fe5c8d60b8b2becd948cd
+SHA1: 809a624822e41164fd0c61b63064addf6972ba80
+SHA256: 5f91822101d55124a476cb2a9e4f49a4b41cef110673a86ebd191d10e2820901
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by M_Dallak
 Author: M Dallak <m_dallak@outlook.com>
@@ -66,21 +66,38 @@ Depiction: http://mdallak.github.io/depic/index.html?p=KGPayphone
 Name: KG Payphone Font 10
 
 Package: com.julioverne.cydown
-Version: 6.7.0
+Version: 6.7.5
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
-Filename: ./debs/com.julioverne.cydown_6.7.0_iphoneos-arm.deb
-Size: 1969618
-MD5sum: 5a8aebb5e21f189e79b6f0ba0189443d
-SHA1: b026902fba1bdf2747846c40d354dc49f550f3cf
-SHA256: 79547f1a96055a7e1e506d270971e664ee49b2cec57196c92d8ebfed60e3dd3e
+Filename: ./debs/com.julioverne.cydown_6.7.5_iphoneos-arm.deb
+Size: 2010546
+MD5sum: 1a23dd141e4d6f90542604ea1aeef080
+SHA1: 10ae156c69c49b615277584898ec739bd86625aa
+SHA256: 1ae859117454d65b6902e4b944708083fd72d10f0b7e10856a29a43dc6fa9eee
 Section: Tweaks
+Homepage: http://twitter.com/M_Dallak
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
 Depiction: http://mdallak.github.io/depic/index.html?p=Down
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
+
+Package: com.julioverne.extendlife
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.extendlife_0.5_iphoneos-arm.deb
+Size: 360600
+MD5sum: bf829e8327051fddfe299dd47f4b4933
+SHA1: 09eedb458e96acfbd01b661d36fef3bb7eeac6e3
+SHA256: 1ba308ea9e69380ae71fc6498db073065ad5988e1694275017483624d8b1c023
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Install IPA Files Imported Inside App, Spoof TeamID, Auto Login, Revoke Certificates, Add New Device, Allow OTA Install, Backup to IPA Current Installed App, No Requires VPN Connection, Resign Current Installed App. Requires Cydia Extender App & AppSync
+Author: julioverne
+Name: Extendlife
 
 Package: com.mdallak.MJKaman
 Version: 4.0
@@ -88,10 +105,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.mdallak.mjkaman_4.0_iphoneos-arm.deb
-Size: 14690
-MD5sum: 13cedccb4687bb14c8c07c8479728a78
-SHA1: cf06ce53410d71a2148c31b9c15e9507db105e0c
-SHA256: 623c3ecfc52394524742c6a4a7ff7cf31bc1429f2fdeb58bb5f2e96e2e88707a
+Size: 14694
+MD5sum: 7d4697464d639d940c123bff093c8da5
+SHA1: dbce1cb99719a5df3498c18f48736fccfb55a6e3
+SHA256: 316c6f8949ba5ae989a33bd7685f2e34ea13aa551f1da8bb7aa939dc28181dba
 Section: Fonts (BytaFont Tweak Mode)
 Description: Fonts for BytaFont 3 by M_Dallak
 Author: M Dallak <M_Dallak@outlook.com>
@@ -104,10 +121,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.mdallak.hayah_4.0_iphoneos-arm.deb
-Size: 156328
-MD5sum: a639987fcd4f65eaaf16a0018c7769c9
-SHA1: e3bfd5dbd661cda15bb8b626d35ac3fa69026386
-SHA256: e7766cd1f8c8fd792910883ed611082b9ef8a0e033a015a89290f33f60e48ab1
+Size: 155836
+MD5sum: c134d65ee921e926ae03775bffd17d22
+SHA1: 1e794c1f700057586f871465ef6413f1cb15a24e
+SHA256: 1cf3a9eefeaed60c4d29091f2e5e00076be961fe3401e2f25ba0004199610fed
 Section: Fonts (BytaFont Tweak Mode)
 Description: Hayah for BytaFont 3 by M_Dallak
 Author: M Dallak <M_Dallak@outlook.com>
@@ -115,20 +132,20 @@ Depiction: http://mdallak.github.io/depic/index.html?p=Hayah
 Name: Hayah Font iOS 10
 
 Package: com.mdallak.ios6
-Version: 1.0b~2
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.anemonetheming.anemone, firmware (>= 10.0)
-Filename: ./debs/com.mdallak.ios6_1.0b~2_iphoneos-arm.deb
-Size: 6361042
-MD5sum: 5266d169dccfeda79980451778c2ee64
-SHA1: e7e2c2fa75dfc492f0909131d2eecf334785431e
-SHA256: 72306ee5644295c5d4c5f89a7cc12a051f75ab8b3194f02bbeecb4237a70d331
+Filename: ./debs/com.mdallak.ios6_1.2_iphoneos-arm.deb
+Size: 27272
+MD5sum: 8c9f5bd1faaf5164ce61992d78a8651a
+SHA1: 4e51a8680d879713bacc4eb1854a2cc4a3ceaed1
+SHA256: 627acb8dfcf8bd0fcc78ec052d6ea70d6aa0fd771625471433754bfd2729f3b8
 Section: Themes (System)
-Description: iOS 6 Theme b~2
+Description: iOS 6 Charging Sound
 Author: M Dallak <M_Dallak@outlook.com>
 Depiction: https://mdallak.github.io/depic/index.html?p=iOS6
-Name: iOS 6 Theme for iOS 10
+Name: iOS 6 Charging Sound for iOS 10
 
 Package: com.mdallak.lobstertwo
 Version: 4.0
@@ -136,10 +153,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.mdallak.lobstertwo_4.0_iphoneos-arm.deb
-Size: 354646
-MD5sum: 990c81e33857fe6cfd06e825eafc7459
-SHA1: 6502973f32fe793fee8c47f3c5557d3591be9c6e
-SHA256: 4c6f51cca7faf5738349091094a36205130289621ba7c6b05137684edca1f8ab
+Size: 354652
+MD5sum: f4648344d272aaeab23c85bdc6544fba
+SHA1: 9690fbab0775ca592e9098194dc12d1a31c93800
+SHA256: d73938008b0f211c32cd3ec551b3038c5039ea99b404bdb8bd703ff1354b8495
 Section: Fonts (BytaFont Tweak Mode)
 Description: Fonts for BytaFont 3 by M_Dallak
 Author: M Dallak <M_Dallak@outlook.com>
@@ -155,10 +172,10 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_6.0~b1_iphoneos-arm.deb
-Size: 41824
-MD5sum: 6e362ebab2ff8f32d70f05faaf496fd9
-SHA1: 8c89c983350429840c1d209b162c749afdfebd16
-SHA256: 55f1cb7225c59ba3ec93a80c6a325917f1403189c7a399af0c9a6297abca29f6
+Size: 41836
+MD5sum: de867eed9efb685a3ef722b610fba0a4
+SHA1: 90171ecba2ebc1a6c23010726fd8f34016b3021d
+SHA256: 65a2dea3010fa3fcc5c986c513abc8ae01beb76356b4a74d242db469154b4990
 Section: Tweaks
 Homepage: http://cydia.angelxwind.net/
 Description: AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.
@@ -172,32 +189,13 @@ Architecture: iphoneos-arm
 Maintainer: D4ni <mail@d4ni.nl>
 Depends: firmware (>= 10.0)
 Filename: ./debs/nl.d4ni.cydiainstall_2.1_iphoneos-arm.deb
-Size: 1812400
-MD5sum: a76fad295327c14925e21233b71cd89f
-SHA1: 3c0e673830cf322a1353b7c509fecdc78941d06a
-SHA256: 2e870519773d66da13c9ec13780e24f644340b3b2077ad44017765fd5660c160
+Size: 1811990
+MD5sum: c6a04a2cc0cc66da57d85244def8aac9
+SHA1: 631d048a07140f84188a788a5e2b7e75759273a2
+SHA256: 48db3ecc6518f4549c25cc8fde9880a81698bc56fb0a59fb36ba7153832bb033
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Author: D4ni <mail@d4ni.nl>
 Depiction: https://mdallak.github.io/depic/index.html?p=Failsafe
 Name: Cydia Failsafe
-
-Package: zm.IAPCrazy
-Version: 1.6.0
-Architecture: iphoneos-arm
-Maintainer: songzhiming
-Depends: firmware (>= 7.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/zm.iapcrazy_1.6.0_iphoneos-arm.deb
-Size: 9733698
-MD5sum: 849281537703a3f9755b8921d4d37e2d
-SHA1: 10cac2ed216a068374536b57cd03b7d7570faad6
-SHA256: 1c89e2d25fcea1590569260c9ea64118e78c47feedf5d64b2210f4e7479e020a
-Section: Tweaks
-Homepage: www.youyuanapp.com
-Description: IAPCrazy for iOS 7.0~9.3.x
-Author: WWW.YouYuanApp.COM
-Depiction: http://mdallak.github.io/depic/index.html?p=iAP
-Dev: YouYuanApp <admin@youyuanapp.com>
-Icon: file:///Applications/IAPCrazy.app/AppIcon57x57.png
-Name: IAPCrazy
 

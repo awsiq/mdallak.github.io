@@ -10,5 +10,3 @@ dpkg-deb -bZgzip projects/Hayah debs
 dpkg-deb -bZgzip projects/MJKaman debs
 dpkg-deb -bZgzip projects/iOS6 debs
 dpkg-deb -bZgzip projects/LobsterTwo debs
-
-DEBIA
