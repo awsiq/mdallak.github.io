@@ -1,0 +1,11 @@
+Package: com.bytafont.bytafonttmnc
+Name: BytaFont Tweak Mode NC
+Author: BytaFont.com <info@bytafont.com>
+Version: 1.1.7
+Depends: com.bytafont.bytafont3, mobilesubstrate
+Architecture: iphoneos-arm
+Description: BytaFont Tweak Mode NC
+Homepage: http://twitter.com/mdallak
+Depiction: http://mdallak.github.io/depic/index.html?p=TweakModeNC
+Maintainer: BytaFont
+Section: Tweaks

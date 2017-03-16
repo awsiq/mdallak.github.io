@@ -1,0 +1,12 @@
+Author: M Dallak <M_Dallak@outlook.com>
+Name: iOS 6 Charging Sound for iOS 10
+Package: com.mdallak.ios6
+Section: Themes (System)
+Version: 1.2
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone, firmware (>= 10.0)
+Description: iOS 6 Charging Sound
+Depiction: https://mdallak.github.io/depic/index.html?p=iOS6
+Maintainer: M Dallak <M_Dallak@outlook.com>
+
+

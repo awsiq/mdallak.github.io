@@ -1,0 +1,11 @@
+Package: com.mdallak.lobstertwo
+Name: Lobster Two Font iOS 10
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: com.bytafont.bytafont3
+Depiction: http://mdallak.github.io/depic/index.html?p=LobsterTwo
+Maintainer: M Dallak <M_Dallak@outlook.com>
+Author: M Dallak <M_Dallak@outlook.com>
+Section: Fonts (BytaFont Tweak Mode)
+Description: Fonts for BytaFont 3 by M_Dallak
+

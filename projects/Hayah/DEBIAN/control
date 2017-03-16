@@ -1,0 +1,11 @@
+Package: com.mdallak.hayah
+Name: Hayah Font iOS 10
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: com.bytafont.bytafont3
+Depiction: http://mdallak.github.io/depic/index.html?p=Hayah
+Maintainer: M Dallak <M_Dallak@outlook.com>
+Author: M Dallak <M_Dallak@outlook.com>
+Section: Fonts (BytaFont Tweak Mode)
+Description: Hayah for BytaFont 3 by M_Dallak
+

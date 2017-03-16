@@ -1,7 +1,7 @@
 <package>
 	<id>com.mdallak.ios6</id>
-	<name>iOS 6 Theme for iOS 10</name>
-	<version>1.0b~2</version>
+	<name>iOS 6 Charging Sound for iOS 10</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -11,18 +11,13 @@
 		<package>com.anemonetheming.anemone</package>
 	</dependencies>
 	<descriptionlist>
-		<description>iOS 6 Theme b~2</description>
+		<description>iOS 6 Charging Sound</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<image>ios61.png</image>
-			<image>ios62.png</image>
-		</screenshot>		
-	</screenshots>
-	<changelog>
-		<change>Fix icons on iOS 10.2</change>
-        <change>Add Badges + Dock</change>
-	</changelog>
+        <changelog>
+              <changes>
+		<change>Initial Release</change>
+	      </changes>
+        </changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>

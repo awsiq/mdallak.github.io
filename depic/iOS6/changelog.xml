@@ -1,11 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0b~2</version>
-        <change>Fix icons on iOS 10.2</change>
-        <change>Add Badges + Dock</change>
-	</changes>
-	<changes>
-		<version>1.0b~1</version>
+		<version>1.2</version>
 		<change>Initial Release</change>
 	</changes>
 </changelog>

@@ -1,0 +1,11 @@
+Package: com.bytafont3.kgpayphone
+Name: KG Payphone Font 10
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: com.bytafont.bytafont3
+Depiction: http://mdallak.github.io/depic/index.html?p=KGPayphone
+Maintainer: M Dallak <m_dallak@outlook.com>
+Author: M Dallak <m_dallak@outlook.com>
+Section: Fonts (BytaFont 3)
+Description: Font for BytaFont 3 by M_Dallak
+

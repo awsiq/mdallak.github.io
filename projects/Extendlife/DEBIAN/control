@@ -1,0 +1,10 @@
+Package: com.julioverne.extendlife
+Name: Extendlife
+Author: julioverne
+Version: 0.5
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Install IPA Files Imported Inside App, Spoof TeamID, Auto Login, Revoke Certificates, Add New Device, Allow OTA Install, Backup to IPA Current Installed App, No Requires VPN Connection, Resign Current Installed App. Requires Cydia Extender App & AppSync
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
